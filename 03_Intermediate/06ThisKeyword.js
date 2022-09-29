@@ -5,7 +5,7 @@ console.log(this);
 var game = "basketball";
 
 // function sayName() {
-//   var name = "Hitesh";
+//   var name = "Ilhan";
 //   console.log(this);
 // }
 

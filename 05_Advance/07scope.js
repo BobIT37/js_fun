@@ -1,9 +1,9 @@
 //console.log(name);
 
-var name = "hitesh";
+var name = "Bob";
 
 if (true) {
-  let lastName = "Choudhary";
+  let lastName = "Larry";
 }
 console.log(lastName);
 

@@ -1,10 +1,10 @@
 const myStates = [
-  "Rajasthan",
-  "Delhi",
-  "Assam",
+  "Newyork",
+  "New Jersey",
+  "Ohio",
   1947,
-  "Tamil Nadu",
-  "Maharashtra",
+  "Texas",
+  "California",
 ];
 
 // var i = 0;

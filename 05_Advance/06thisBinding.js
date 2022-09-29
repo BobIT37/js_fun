@@ -1,6 +1,6 @@
-const hitesh = {
-  firstName: "Hitesh",
-  lastName: "Choudhary",
+const bob = {
+  firstName: "Bob",
+  lastName: "Larry",
   role: "Admin",
   courseCount: 3,
   getInfo: function () {
@@ -20,10 +20,10 @@ const dj = {
   courseCount: 4,
 };
 
-// hitesh.getInfo();
+// bob.getInfo();
 // dj.getInfo();
 
-// var djInfo = hitesh.getInfo.bind(dj);
+// var djInfo = bob.getInfo.bind(dj);
 // djInfo();
 
-hitesh.getInfo.call(dj);
+bob.getInfo.call(dj);

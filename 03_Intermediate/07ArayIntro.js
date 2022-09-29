@@ -8,7 +8,7 @@ var states = new Array("Rajasthan", "Delhi", "Mumbai", "Assam");
 states[0] = "Punjab";
 //console.log(states);
 
-var user = ["hitesh", "hitesh@lco.dev", 3, 34, true];
+var user = ["ilhan", "ilhan@loop.dev", 3, 34, true];
 //console.log(user);
 
 user.pop();
@@ -21,4 +21,4 @@ console.log(user);
 
 console.log(user.indexOf("newyy"));
 
-console.log(Array.from("hitesh"));
+console.log(Array.from("ilhan"));

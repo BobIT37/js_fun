@@ -1,7 +1,7 @@
 console.log(this);
 
 var user = {
-  firstName: "Hitesh",
+  firstName: "Robert",
   courseCount: 4,
   getCourseCount: function () {
     console.log("LINE 7", this);

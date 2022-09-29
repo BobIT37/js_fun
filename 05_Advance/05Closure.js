@@ -1,5 +1,5 @@
 // function init() {
-//   var firstName = "hitesh";
+//   var firstName = "Ilhan";
 //   console.log("I am init");
 
 //   function sayFirstName() {

@@ -2,7 +2,7 @@
 
 const User = require("./12classjs.js");
 
-const hitesh = new User("hitesh", "hitesh@lco.dev");
+const hitesh = new User("Bob", "bob@loop.dev");
 
 console.log(hitesh.getInfo());
 hitesh.enrollCourse("React Bootcamp");

@@ -1,6 +1,6 @@
 var user = {
-  firstName: "Hitesh",
-  lastName: "Choudhary",
+  firstName: "Bob",
+  lastName: "Larry",
   role: "Admin",
   loginCount: 32,
   facebookSignedIn: true,

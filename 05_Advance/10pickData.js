@@ -7,7 +7,7 @@
 //console.log(role);
 
 const MyUser = {
-  name: "hitesh",
+  name: "Bob",
   courseCount: 5,
   role: "admin",
 };

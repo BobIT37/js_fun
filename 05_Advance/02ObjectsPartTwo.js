@@ -7,7 +7,7 @@ var User = {
 
 var hitesh = Object.create(User);
 console.log(hitesh);
-hitesh.name = "hitesh Choudhary";
+hitesh.name = "Bob Larry";
 hitesh.getUserName();
 
 var sam = Object.create(User, {
